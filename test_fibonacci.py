@@ -1,5 +1,5 @@
 import unittest
-import pytest
+
 import sys
 from fibonacci import factorial, fibonacci
 
